@@ -21,7 +21,7 @@ GIF SECTION
   </a>
 <!-- Projects section -->
 
-## 📘 My top open source projects
+## 📘 My top projects
 
 <table>
     <tr>
