@@ -21,6 +21,7 @@ GIF SECTION
   </a>
 <!-- Projects section -->
 ## 📘 My top projects
+
 <table>
     <tr>
         <td>
