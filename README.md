@@ -1,6 +1,6 @@
 <!-- 
 GIF SECTION
-
+<h1 align="center"><b>Hola, Bienvenido a mi github! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
