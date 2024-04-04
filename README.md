@@ -43,7 +43,7 @@ GIF SECTION
             <a href="https://github.com/natdelgado1/Ecommerce-Fresh" target="_blank"> <img src="https://imgur.com/a/ppbqkus" alt="Ecommerce Image"></a>
             <p>
             <a href="https://github.com/natdelgado1/Ecommerce-Fresh" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://imgur.com/Iyk3A5p">
             
             </p>
             <p>El E-commerce está diseñado para una tienda de calzados y cuenta con diversas funcionalidades para ofrecer una experiencia de compra óptima a los usuarios.</p>
