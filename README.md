@@ -40,7 +40,7 @@ GIF SECTION
         <td>
             <h3 align="center">E-commerce Fresh</h3>
              <div align="center">
-            <a href="https://github.com/natdelgado1/Ecommerce-Fresh" target="_blank"> <img src="https://imgur.com/a/ppbqkus" alt="Ecommerce Image"></a>
+            <a href="https://github.com/natdelgado1/Ecommerce-Fresh" target="_blank"> <img src="https://i.imgur.com/Iyk3A5p.png" alt="Ecommerce Image"></a>
             <p>
             <a href="https://github.com/natdelgado1/Ecommerce-Fresh" target="_blank">
             <img src="https://imgur.com/Iyk3A5p"> 
