@@ -19,9 +19,6 @@ GIF SECTION
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb,nextjs,aws,tailwindcss,materialui,bootstrap,git,github,figma,chartjs,bcrypt,socket.io,nodemailer,trello" />
   </a>
-
-
-
 <!-- Projects section -->
 
 ## 📘 My top open source projects
