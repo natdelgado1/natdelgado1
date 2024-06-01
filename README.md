@@ -32,6 +32,17 @@ SECCIÓN GIF
             <h4>El E-commerce está diseñado para una tienda de calzados y cuenta con diversas funcionalidades para ofrecer una experiencia de compra óptima a los usuarios.</h4>
             </div>
         </td>
+        <td>
+            <h3 align="center">Lista de Tareas</h3>
+             <div align="center">
+            <a href="https://github.com/natdelgado1/ListadeTareas-MERN-MaterialUI" target="_blank"> <img src="https://i.imgur.com/CsrAW3D.png" alt="Lista de Tareas"></a>
+            <p>
+            <a href="https://github.com/natdelgado1/ListadeTareas-MERN-MaterialUI" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"> 
+            </p>
+            <h4>El E-commerce está diseñado para una tienda de calzados y cuenta con diversas funcionalidades para ofrecer una experiencia de compra óptima a los usuarios.</h4>
+            </div>
+        </td>
     </tr>
 </table>
 <p align="left">
