@@ -21,7 +21,7 @@ SECCIÓN GIF
 <h2>📘 My top projects</h2>
 <table>
     <tr>
-        <td>
+        <td content="flex">
             <h3 align="center">E-commerce Fresh</h3>
              <div align="center">
             <a href="https://github.com/natdelgado1/Ecommerce-Fresh" target="_blank"> <img src="https://i.imgur.com/EBcgRSS.png" alt="Ecommerce Image"></a>
