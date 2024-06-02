@@ -20,7 +20,7 @@ SECCIÓN GIF
   </a>
 <h2>📘 My top projects</h2>
 <table>
-    <tr display="flex">
+    <tr>
         <td>
             <h3 align="center">E-commerce Fresh</h3>
              <div align="center">
@@ -40,7 +40,7 @@ SECCIÓN GIF
             <a href="https://github.com/natdelgado1/ListadeTareas-MERN-MaterialUI" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"> 
             </p>
-            <h4>Desarrollada con el stack MERN, Material UI y Tailwind CSS, permite a los usuarios gestionar sus tareas de manera eficiente. Ofrece funcionalidades de creación, edición, visualización y eliminación de tareas, además de establecer prioridades y añadir comentarios. Incluye autenticación con JWT </h4>
+            <h4>Desarrollada con el stack MERN, Material UI y Tailwind CSS, permite a los usuarios gestionar sus tareas eficientemente. Ofrece funcionalidades de creación, edición, visualización y eliminación de tareas, establecer prioridades y añadir comentarios. </h4>
             </div>
         </td>
     </tr>
