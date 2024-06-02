@@ -40,7 +40,7 @@ SECCIÓN GIF
             <a href="https://github.com/natdelgado1/ListadeTareas-MERN-MaterialUI" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"> 
             </p>
-            <h4>Desarrollada con el stack MERN, Material UI y Tailwind CSS, permite a los usuarios gestionar sus tareas eficientemente. Ofrece funcionalidades de creación, edición, visualización y eliminación de tareas, establecer prioridades y añadir comentarios. </h4>
+            <h4>Desarrollada con el stack MERN, Material UI y Tailwind CSS, permite a los usuarios gestionar sus tareas eficientemente. Ofrece CRUD de tareas, establecer prioridades y añadir comentarios. </h4>
             </div>
         </td>
     </tr>
