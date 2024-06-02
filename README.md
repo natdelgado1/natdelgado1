@@ -20,7 +20,7 @@ SECCIÓN GIF
   </a>
 <h2>📘 My top projects</h2>
 <table>
-    <tr>
+    <tr display="flex">
         <td>
             <h3 align="center">E-commerce Fresh</h3>
              <div align="center">
