@@ -34,7 +34,7 @@ SECCIÓN GIF
         </td>
         <td>
             <h3 align="center">Lista de Tareas</h3>
-             <div align="center">
+             <div>
             <a href="https://github.com/natdelgado1/ListadeTareas-MERN-MaterialUI" target="_blank"> <img src="https://i.imgur.com/CsrAW3D.png" alt="Lista de Tareas"></a>
             <p>
             <a href="https://github.com/natdelgado1/ListadeTareas-MERN-MaterialUI" target="_blank">
