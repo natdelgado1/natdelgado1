@@ -40,9 +40,7 @@ SECCIÓN GIF
             <a href="https://github.com/natdelgado1/ListadeTareas-MERN-MaterialUI" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"> 
             </p>
-            <h4>Esta aplicación de lista de tareas es una solución completa y eficiente para la gestión de tareas, desarrollada utilizando el stack MERN (MongoDB, Express, React, Node.js) junto con Bootstrap y Tailwind CSS para un diseño moderno y responsivo. Permite a los usuarios crear, visualizar, editar y eliminar tareas, con opciones adicionales para establecer prioridades y añadir comentarios.
-
-Características destacadas incluyen una autenticación segura mediante JWT, recuperación de contraseña por correo electrónico, y una interfaz interactiva con un sidebar que facilita la creación y filtrado de tareas. La aplicación también ofrece una vista clara de las tareas pendientes y una tabla detallada con todas las tareas, permitiendo una gestión eficaz y organizada.</h4>
+            <h4>Esta aplicación de lista de tareas, desarrollada con el stack MERN (MongoDB, Express, React, Node.js) y estilizada con Bootstrap y Tailwind CSS, permite a los usuarios gestionar sus tareas de manera eficiente. Ofrece funcionalidades de creación, edición, visualización y eliminación de tareas, además de establecer prioridades y añadir comentarios. Incluye autenticación segura con JWT y recuperación de contraseña por correo electrónico. La interfaz cuenta con un sidebar interactivo para crear y filtrar tareas, así como vistas claras de tareas pendientes y una tabla con todas las tareas.</h4>
             </div>
         </td>
     </tr>
