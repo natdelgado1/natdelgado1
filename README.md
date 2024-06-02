@@ -21,7 +21,7 @@ SECCIÓN GIF
 <h2>📘 My top projects</h2>
 <table>
     <tr>
-        <td content="flex">
+        <td>
             <h3 align="center">E-commerce Fresh</h3>
              <div align="center">
             <a href="https://github.com/natdelgado1/Ecommerce-Fresh" target="_blank"> <img src="https://i.imgur.com/EBcgRSS.png" alt="Ecommerce Image"></a>
@@ -40,7 +40,7 @@ SECCIÓN GIF
             <a href="https://github.com/natdelgado1/ListadeTareas-MERN-MaterialUI" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"> 
             </p>
-            <h4>Esta aplicación de lista de tareas, desarrollada con el stack MERN (MongoDB, Express, React, Node.js) y estilizada con Bootstrap y Tailwind CSS, permite a los usuarios gestionar sus tareas de manera eficiente. Ofrece funcionalidades de creación, edición, visualización y eliminación de tareas, además de establecer prioridades y añadir comentarios. Incluye autenticación segura con JWT y recuperación de contraseña por correo electrónico. La interfaz cuenta con un sidebar interactivo para crear y filtrar tareas, así como vistas claras de tareas pendientes y una tabla con todas las tareas.</h4>
+            <h4>Desarrollada con el stack MERN y estilizada con Bootstrap y Tailwind CSS, permite a los usuarios gestionar sus tareas de manera eficiente. Ofrece funcionalidades de creación, edición, visualización y eliminación de tareas, además de establecer prioridades y añadir comentarios. Incluye autenticación segura con JWT y recuperación de contraseña. La interfaz cuenta con un sidebar interactivo para crear y filtrar tareas, así como vistas claras de tareas pendientes y una tabla con todas las tareas.</h4>
             </div>
         </td>
     </tr>
