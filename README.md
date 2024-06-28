@@ -24,7 +24,7 @@ SECCIÓN GIF
         <td>
             <h3 align="center">E-commerce Fresh</h3>
              <div align="center">
-            <a href="https://github.com/natdelgado1/Ecommerce-Fresh" target="_blank"> <img src="https://i.imgur.com/EBcgRSS.png" alt="Ecommerce Image"></a>
+            <a href="https://github.com/Samuel-tech22/Proyecto_Final" target="_blank"> <img src="https://i.imgur.com/EBcgRSS.png" alt="Ecommerce Image"></a>
             <p>
             <a href="https://github.com/natdelgado1/Ecommerce-Fresh" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"> 
