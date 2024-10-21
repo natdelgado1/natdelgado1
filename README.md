@@ -1,5 +1,3 @@
-<!-- 
-SECCIÓN GIF
 <!-- Sección de iconos sociales -->
   <p align="center">
     <a href="https://portfolio.nataliadelgado.dev/" target="_blank">
@@ -12,11 +10,15 @@ SECCIÓN GIF
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
-</h1>
+
+# ¡Hola! Soy Natalia Delgado 👋
+
+Desarrolladora Full Stack enfocada en crear soluciones escalables y aplicaciones web centradas en la experiencia del usuario. Con experiencia en autogestión y trabajo remoto, me especializo en desarrollar APIs robustas y eficientes. Además, estoy comprometida con la comunidad tecnológica, participando en iniciativas y compartiendo conocimientos.
+
 <!-- languajes and skills section -->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb,nextjs,aws,tailwindcss,materialui,bootstrap,git,github,figma,chartjs,bcrypt,socket.io,nodemailer,trello" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb,nextjs,aws,tailwind,materialui,bootstrap,git,github,figma,chartjs,bcrypt,socket.io,nodemailer,trello,aws,ts,postman,visualstudio,vite,mysql" />
   </a>
 <h2>📘 My top projects</h2>
 <table>
