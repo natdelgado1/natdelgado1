@@ -17,7 +17,7 @@ Desarrolladora Full Stack enfocada en crear soluciones escalables y aplicaciones
 
 <!-- languajes and skills section -->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align="left">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb,nextjs,aws,tailwind,materialui,bootstrap,git,github,figma,chartjs,bcrypt,socket.io,nodemailer,trello,aws,ts,postman,visualstudio,vite,mysql" />
   </a>
 <h2>📘 My top projects</h2>
