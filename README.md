@@ -79,9 +79,7 @@ Desarrolladora Full Stack enfocada en crear soluciones escalables y aplicaciones
 
 ### My Github Stats:
 ![natdelgado1's Stats](https://github-readme-stats.vercel.app/api?username=natdelgado1&theme=nord&show_icons=true&hide_border=false&count_private=true)
----
 
-### StarDev Ranking
 <a>![natdelgado1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=natdelgado1&theme=nord&hide_border=false)</a>
 ---
 
