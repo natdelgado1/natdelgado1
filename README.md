@@ -33,7 +33,7 @@ SECCIÓN GIF
             </div>
     </td>
         <td>
-            <h3 align="center">QUE RAPIDA</h3>
+            <h3 align="center">QUERAPIDA: una red social de cómidas rápidas</h3>
              <div align="center">
             <a href="https://github.com/121189/c18-112-n-react-agregarback" target="_blank"> <img src="queRapida.png" alt="QUERAPIDA Image"></a>
             <p>
