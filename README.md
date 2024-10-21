@@ -24,14 +24,25 @@ SECCIÓN GIF
     <td>
       <h3 align="center">Desafío Hackathon: Explorador de Lugares con Chatbot</h3>
              <div align="center">
-            <a href="https://github.com/adriangrahldev/hackathon-desafio-ai" target="_blank"> <img src="https://i.imgur.com/EBcgRSS.png" alt="Ecommerce Image"></a>
+            <a href="https://github.com/adriangrahldev/hackathon-desafio-ai" target="_blank"> <img src="./Desafío-Hackathon-Explorador-de-Lugares-con-Chatbot.png" alt="DesafioIA"></a>
             <p>
-            <a href="https://github.com/Samuel-tech22/Proyecto_Final" target="_blank">
+            <a href="https://github.com/adriangrahldev/hackathon-desafio-ai" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"> 
             </p>
-            <h4>El E-commerce está diseñado para una tienda de calzados y cuenta con diversas funcionalidades para ofrecer una experiencia de compra óptima a los usuarios.</h4>
+            <h4>Proyecto desarrollado con tecnologías web full stack integrando APIs de Inteligencia Artificial. Ganador de la hackathon Programando Paraguay 2024</h4>
             </div>
     </td>
+        <td>
+            <h3 align="center">QUE RAPIDA</h3>
+             <div align="center">
+            <a href="https://github.com/121189/c18-112-n-react-agregarback" target="_blank"> <img src="querapidas.png" alt="QUERAPIDA Image"></a>
+            <p>
+            <a href="https://github.com/121189/c18-112-n-react-agregarback" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"> 
+            </p>
+            <h4>QUERAPIDA es una red social de cocina diseñada para entusiastas culinarios de todos los niveles.</h4>
+            </div>
+        </td>
     </tr>
     <tr>
         <td>
