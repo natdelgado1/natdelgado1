@@ -74,5 +74,11 @@ Desarrolladora Full Stack enfocada en crear soluciones escalables y aplicaciones
 <p align="left">
   <a href="https://github.com/natdelgado1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-<br>
+
+---
+
+### My Github Stats:
+![natdelgado1's Stats](https://github-readme-stats.vercel.app/api?username=natdelgado1&theme=nord&show_icons=true&hide_border=false&count_private=true)
+![natdelgado1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=natdelgado1&theme=nord&hide_border=false)
+![natdelgado1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natdelgado1&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
