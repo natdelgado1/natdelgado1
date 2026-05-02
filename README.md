@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
-[![committers.top badge](https://user-badge.committers.top/paraguay_private/USERNAME.svg)](https://user-badge.committers.top/paraguay_private/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/paraguay_private/natdelgado1.svg)](https://user-badge.committers.top/paraguay_private/natdelgado1)
 
 # ¡Hola! Soy Natalia Delgado 👋
 
