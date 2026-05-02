@@ -15,6 +15,7 @@
 <a href="https://user-badge.committers.top/paraguay_private/natdelgado1">
   <img src="https://user-badge.committers.top/paraguay_private/natdelgado1.svg" />
 </a>
+
 Desarrolladora Full Stack enfocada en crear soluciones escalables y aplicaciones web centradas en la experiencia del usuario. Con experiencia en autogestión y trabajo remoto, me especializo en desarrollar APIs robustas y eficientes. Además, estoy comprometida con la comunidad tecnológica, participando en iniciativas y compartiendo conocimientos.
 
 <!-- languajes and skills section -->
